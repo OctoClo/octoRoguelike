@@ -1,0 +1,102 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7619
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Dev\Unity\RoguelikeTutorial\RoguelikeTutorial_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.246815 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.568297 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 831.
+Total: 0.286024 ms (FindLiveObjects: 0.048592 ms CreateObjectMapping: 0.022913 ms MarkObjects: 0.205432 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568889 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 837.
+Total: 0.316049 ms (FindLiveObjects: 0.042271 ms CreateObjectMapping: 0.031209 ms MarkObjects: 0.237037 ms  DeleteObjects: 0.005135 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.722568 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 843.
+Total: 0.368987 ms (FindLiveObjects: 0.051753 ms CreateObjectMapping: 0.039901 ms MarkObjects: 0.270617 ms  DeleteObjects: 0.006320 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.198222 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 838.
+Total: 0.562568 ms (FindLiveObjects: 0.074666 ms CreateObjectMapping: 0.063604 ms MarkObjects: 0.413629 ms  DeleteObjects: 0.009876 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.747457 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 865.
+Total: 0.397037 ms (FindLiveObjects: 0.052938 ms CreateObjectMapping: 0.040691 ms MarkObjects: 0.295111 ms  DeleteObjects: 0.006716 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.350321 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 839.
+Total: 0.627358 ms (FindLiveObjects: 0.081777 ms CreateObjectMapping: 0.070716 ms MarkObjects: 0.463802 ms  DeleteObjects: 0.010271 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.418667 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 854.
+Total: 0.647506 ms (FindLiveObjects: 0.084938 ms CreateObjectMapping: 0.071506 ms MarkObjects: 0.479605 ms  DeleteObjects: 0.010666 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.774716 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 852.
+Total: 0.333827 ms (FindLiveObjects: 0.044641 ms CreateObjectMapping: 0.032790 ms MarkObjects: 0.250469 ms  DeleteObjects: 0.005135 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.568395 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 868.
+Total: 0.730469 ms (FindLiveObjects: 0.094814 ms CreateObjectMapping: 0.080197 ms MarkObjects: 0.542419 ms  DeleteObjects: 0.012246 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.004247 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 845.
+Total: 0.471703 ms (FindLiveObjects: 0.061234 ms CreateObjectMapping: 0.047012 ms MarkObjects: 0.355160 ms  DeleteObjects: 0.007506 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 15cc -> priority: 1 
+  Thread -> id: 252c -> priority: 1 
